@@ -253,4 +253,3 @@ https://github.com/Yash-Kavaiya/awesome-cx-agent-studio
 
 ---
 
-*تم إعداد هذا الملخص بواسطة Claude بناءً على المقال المذكور أعلاه. This summary was prepared by Claude based on the article referenced above.*
