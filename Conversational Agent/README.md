@@ -242,6 +242,15 @@ At the same time, frameworks like **LangChain**, the **OpenAI Agents SDK**, and 
 - [المقال الأصلي بالإنجليزي / Original Medium article](https://medium.com/google-cloud/conversational-agent-how-google-is-redefining-chatbot-creation-with-generative-ai-6893ed877ffe)
 - [النسخة الفرنسية الأصلية / Original French version (sfeir.dev)](https://www.sfeir.dev/ia/conversational-agent-comment-google-redefinit-la-creation-de-chatbots-avec-lia-generative/)
 
+## 🔗 مصادر إضافية / Additional Resources repo code projects example
+(https://github.com/Somesh-6711/Grounded-Support-Agent-Dialogflow-CX)
+
+https://github.com/hayo03/Dialogflow-CX-Start-Tutorial
+
+https://github.com/topics/dialogflow-cx
+
+https://github.com/Yash-Kavaiya/awesome-cx-agent-studio
+
 ---
 
 *تم إعداد هذا الملخص بواسطة Claude بناءً على المقال المذكور أعلاه. This summary was prepared by Claude based on the article referenced above.*
